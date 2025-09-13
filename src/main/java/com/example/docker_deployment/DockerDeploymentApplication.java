@@ -11,7 +11,7 @@ public class DockerDeploymentApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello from Spring Boot + Docker + Jenkins + AWS EC2 🚀";
+		return "Hello Springboot how are you!!";
 	}
 
 	public static void main(String[] args) {
